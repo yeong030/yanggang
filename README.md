@@ -16,7 +16,7 @@
           해야하겠지.....
                파이팅......!
     </pre>
-    ![bear](https://github.com/user-attachments/assets/34418a06-a28a-4383-9af1-9eb8774598a0)
+    <img width="50%" src="
     보고싶다 경현아~~ 수업끝나고 연락할게
 </body>
 </html>
