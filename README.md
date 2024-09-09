@@ -16,7 +16,7 @@
           해야하겠지.....
                파이팅......!
     </pre>
-    <img width="50%" src="
+    <img width="50%" src="https://github.com/user-attachments/assets/c3e0c88a-139c-41e8-9ccb-970bbc47eaa6"/>
     보고싶다 경현아~~ 수업끝나고 연락할게
 </body>
 </html>
