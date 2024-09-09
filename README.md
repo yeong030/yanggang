@@ -16,7 +16,7 @@
           해야하겠지.....
                파이팅......!
     </pre>
-    <img src="농담곰짤.png">
+    <img src="![농담곰짤](https://github.com/user-attachments/assets/041677c7-4c37-428f-8deb-cba65aea32a4)">
     보고싶다 경현아~~ 수업끝나고 연락할게
 </body>
 </html>
