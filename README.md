@@ -16,7 +16,7 @@
           해야하겠지.....
                파이팅......!
     </pre>
-    ![image](https://github.com/user-attachments/assets/b287a517-c48e-4fda-9a53-a3155a2efb45.png)
+    ![농담곰짤](https://github.com/user-attachments/assets/c3e0c88a-139c-41e8-9ccb-970bbc47eaa6)
     보고싶다 경현아~~ 수업끝나고 연락할게
 </body>
 </html>
